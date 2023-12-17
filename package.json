@@ -1,0 +1,18 @@
+{
+  "name": "myportfolio",
+  "version": "1.0.0",
+  "description": "website of my portfolio with tailwind css",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "Ahmad Ansori",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.6"
+  }
+}
